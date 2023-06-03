@@ -61,7 +61,7 @@ clear
 echo
 echo "Warp account application successful" && sleep 3
 echo
-echo "reserved值：$res" && sleep 2
+echo "reserved value：$res" && sleep 2
 echo
 echo "warp-wireguard (api) configuration information is as follows" && sleep 2
 cat warp-api-wg.txt
